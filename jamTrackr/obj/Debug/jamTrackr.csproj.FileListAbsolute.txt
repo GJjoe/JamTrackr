@@ -1,0 +1,13 @@
+C:\Users\short\Source\Workspaces\jamTrackr\jamTrackr\jamTrackr\bin\Debug\jamTrackr.exe.config
+C:\Users\short\Source\Workspaces\jamTrackr\jamTrackr\jamTrackr\bin\Debug\jamTrackr.exe
+C:\Users\short\Source\Workspaces\jamTrackr\jamTrackr\jamTrackr\bin\Debug\jamTrackr.pdb
+C:\Users\short\Source\Workspaces\jamTrackr\jamTrackr\jamTrackr\bin\Debug\NAudio.dll
+C:\Users\short\Source\Workspaces\jamTrackr\jamTrackr\jamTrackr\bin\Debug\NAudio.WindowsMediaFormat.dll
+C:\Users\short\Source\Workspaces\jamTrackr\jamTrackr\jamTrackr\bin\Debug\NAudio.xml
+C:\Users\short\Source\Workspaces\jamTrackr\jamTrackr\jamTrackr\obj\Debug\jamTrackr.csprojResolveAssemblyReference.cache
+C:\Users\short\Source\Workspaces\jamTrackr\jamTrackr\jamTrackr\obj\Debug\jamTrackr.Form1.resources
+C:\Users\short\Source\Workspaces\jamTrackr\jamTrackr\jamTrackr\obj\Debug\jamTrackr.Properties.Resources.resources
+C:\Users\short\Source\Workspaces\jamTrackr\jamTrackr\jamTrackr\obj\Debug\jamTrackr.csproj.GenerateResource.Cache
+C:\Users\short\Source\Workspaces\jamTrackr\jamTrackr\jamTrackr\obj\Debug\jamTrackr.exe
+C:\Users\short\Source\Workspaces\jamTrackr\jamTrackr\jamTrackr\obj\Debug\jamTrackr.pdb
+C:\Users\short\Source\Workspaces\jamTrackr\jamTrackr\jamTrackr\obj\Debug\jamTrackr.Form2.resources
